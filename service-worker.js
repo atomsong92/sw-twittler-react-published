@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sw-twittler-react-published/precache-manifest.feaf52e2d3323524a6a7c6276278719b.js"
+  "/sw-twittler-react-published/precache-manifest.0a8524295a7e7912a996e343f63223a2.js"
 );
 
 self.addEventListener('message', (event) => {
