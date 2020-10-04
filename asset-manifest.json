@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sw-twittler-react-published/static/css/main.87797b1c.chunk.css",
+    "main.js": "/sw-twittler-react-published/static/js/main.ecdeddce.chunk.js",
+    "main.js.map": "/sw-twittler-react-published/static/js/main.ecdeddce.chunk.js.map",
+    "runtime-main.js": "/sw-twittler-react-published/static/js/runtime-main.9723bef1.js",
+    "runtime-main.js.map": "/sw-twittler-react-published/static/js/runtime-main.9723bef1.js.map",
+    "static/js/2.e0d7d6ef.chunk.js": "/sw-twittler-react-published/static/js/2.e0d7d6ef.chunk.js",
+    "static/js/2.e0d7d6ef.chunk.js.map": "/sw-twittler-react-published/static/js/2.e0d7d6ef.chunk.js.map",
+    "index.html": "/sw-twittler-react-published/index.html",
+    "precache-manifest.feaf52e2d3323524a6a7c6276278719b.js": "/sw-twittler-react-published/precache-manifest.feaf52e2d3323524a6a7c6276278719b.js",
+    "service-worker.js": "/sw-twittler-react-published/service-worker.js",
+    "static/css/main.87797b1c.chunk.css.map": "/sw-twittler-react-published/static/css/main.87797b1c.chunk.css.map",
+    "static/js/2.e0d7d6ef.chunk.js.LICENSE.txt": "/sw-twittler-react-published/static/js/2.e0d7d6ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9723bef1.js",
+    "static/js/2.e0d7d6ef.chunk.js",
+    "static/css/main.87797b1c.chunk.css",
+    "static/js/main.ecdeddce.chunk.js"
+  ]
+}
